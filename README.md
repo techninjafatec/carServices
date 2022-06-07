@@ -1,41 +1,17 @@
-# Mapbox Navigation Android SDK Examples
+# CarServices
 
-The repository is a collection of examples showing off the [Mapbox Navigation Android SDK](https://github.com/mapbox/mapbox-navigation-android). In order to support minSdkVersion 21, Android Auto and preview features, there are three example apps.
-
-1. [app](app) minSdkVersion of 21
-2. [app-preview](app-preview) minSdkVersion of 21
-2. [android-auto-app](android-auto-app) minSdkVersion of 23
+Aplicativos criado no Android Studio na liguagem Kotlin, o aplicativo calcula com qual combustível é mais vantajoso abastecer o veiculo(Álcool ou Gasolina) e criar rotas fazendo uso da API Mapbox
 
 <div align="center">
-  <img align="center" src=".github/splash_example.png" width="300"/>
+  <img src="https://user-images.githubusercontent.com/91431265/172497949-060a1189-e58c-4b28-b425-5a6a85a5102a.jpg" width="100px"/>
+  <img src="https://user-images.githubusercontent.com/91431265/172497947-fa0fb5e8-3369-495c-aa5a-dca62d99183f.jpg" width="100px"/>
+  <img src="https://user-images.githubusercontent.com/91431265/172497946-047b05c0-7988-4a18-ba2f-41427a65dbf2.jpg" width="100px"/>
+  <img src="https://user-images.githubusercontent.com/91431265/172497944-a4ae7c5d-90cb-4ccd-9046-840823919b43.jpg" width="100px"/>
+  <img src="https://user-images.githubusercontent.com/91431265/172497940-44519e9c-3640-4d6d-a3c4-596a682ea168.jpg" width="100px"/>
 </div>
 
-## Installation
+# Desenvolvedores:
 
-Make sure you follow the steps under the [Installation](https://docs.mapbox.com/android/beta/navigation/guides/install/) guide. Once you have your **public and secret access tokens ready**, do the following:
-
-### [app](app)
-
-1. `git clone git@github.com:mapbox/mapbox-navigation-android-examples.git`
-2. Go to `app/src/main/res/values`
-3. Look for `mapbox_access_token.xml`
-4. If the file already exists, swap `YOUR_ACCESS_TOKEN_HERE` with your public access token.
-5. If the file doesn't exist then create one and add the following content to it
-   ```
-   <?xml version="1.0" encoding="utf-8"?>
-   <resources xmlns:tools="http://schemas.android.com/tools">
-       <string name="mapbox_access_token">YOUR_ACCESS_TOKEN_HERE</string>
-   </resources>
-   ```
-6. Ensure that your secret token is added to [build.gradle](./build.gradle) or to global `gradle.properties` as described in the installation guide.
-7. Run the examples under `app`.
-
-
-## Getting Help
-
-- **Have a bug to report?** [Open an issue](https://github.com/mapbox/mapbox-navigation-android-examples/issues). If possible, include the version of Mapbox Navigation SDK, and an example that shows the issue.
-- **Have an example request?** [Open an issue](https://github.com/mapbox/mapbox-navigation-android-examples/issues/). Tell us what the example should do and why you want it.
-
-## Contributing
-
-We welcome feedback and code contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+Gabriel Santana Pereira <br>
+Jamile Soares Da Cunha <br>
+Junior Magalhães De Alcântara 
