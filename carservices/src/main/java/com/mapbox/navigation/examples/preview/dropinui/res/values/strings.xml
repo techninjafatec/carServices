@@ -1,0 +1,8 @@
+<resources>
+
+  <string name="title_navigation_view">Crie uma Rota</string>
+  <string name="description_navigation_view">Escolha um destino no mapa,
+    pressione o dedo sobre ele e aguarde a criação da melhor rota.
+  </string>
+
+</resources>
