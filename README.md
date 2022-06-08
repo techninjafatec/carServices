@@ -1,6 +1,6 @@
 # CarServices
 
-Aplicativos criado no Android Studio na liguagem Kotlin, o aplicativo calcula com qual combustível é mais vantajoso abastecer o veiculo (Álcool ou Gasolina) e criar rotas fazendo uso da API Mapbox
+Aplicativos criado no Android Studio na linguagem Kotlin, o aplicativo calcula com qual combustível é mais vantajoso abastecer o veiculo (Álcool ou Gasolina) e cria rotas fazendo uso da API Mapbox
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/91431265/172497949-060a1189-e58c-4b28-b425-5a6a85a5102a.jpg" width="100px"/>
